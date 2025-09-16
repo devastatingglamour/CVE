@@ -1,4 +1,4 @@
-Online Library System - SQL Injection on (admin/books/controller.php IBSN parameter) 
+CicadasCMS - Cross Site Scripting on (cms/service/impl/ContentServiceImpl.java content parameter) 
 
 Vendor Homepage:
 ```
@@ -14,7 +14,7 @@ V1.0
 Tested on: 
 
 ```
-PHP, Apache, MySQL
+JAVA, Apache, MySQL
 ```
 
 Affected Page:
@@ -23,7 +23,7 @@ Affected Page:
 src/main/java/com/zhiliao/module/web/cms/service/impl/ContentServiceImpl.java
 ```
 
-On this page, IBSN parameter is vulnerable to Cross Site Scripting
+On this page, content parameter is vulnerable to Cross Site Scripting
 
 ```
 exeSql = "UPDATE t_cms_content_" + tableName.trim() + " set ";
@@ -81,3 +81,5 @@ Date: Tue, 16 Sep 2025 08:16:52 GMT
 
 {"tabid":"","forward":"","message":"操作成功","closeCurrent":true,"forwardConfirm":"","statusCode":"200"}
 ```
+
+<img width="2352" height="1185" alt="image" src="https://github.com/user-attachments/assets/5be1282a-9c63-4498-a818-6871b472feb7" />
