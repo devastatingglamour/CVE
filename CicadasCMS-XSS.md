@@ -48,7 +48,6 @@ exeSql = "UPDATE t_cms_content_" + tableName.trim() + " set ";
                     }
 ```
 
-Proof of vulnerability(Verify using the sqlmap tool after logining):
 
 Request:
 
