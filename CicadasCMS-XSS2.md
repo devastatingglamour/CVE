@@ -66,3 +66,4 @@ Date: Thu, 18 Sep 2025 13:19:37 GMT
 
 {"tabid":"category-tab","forward":"","message":"分类添加成功！","closeCurrent":true,"forwardConfirm":"","statusCode":"200"}
 ```
+<img width="2484" height="1323" alt="image" src="https://github.com/user-attachments/assets/629ed6a4-308b-4267-a963-ffff910a5ff2" />
