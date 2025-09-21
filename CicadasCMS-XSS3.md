@@ -66,3 +66,4 @@ Date: Sun, 21 Sep 2025 12:37:13 GMT
 
 {"tabid":"org-tab","forward":"","message":"添加成功！","closeCurrent":false,"forwardConfirm":"","statusCode":"200"}
 ```
+<img width="2484" height="1311" alt="image" src="https://github.com/user-attachments/assets/28533988-3a9b-4924-8bee-4b754670d02d" />
