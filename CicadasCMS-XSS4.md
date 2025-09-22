@@ -37,7 +37,7 @@ On this page, content parameter is vulnerable to Cross Site Scripting
 
 Function point location：
 
-![image-20250922133355180](C:\Users\xmttz\AppData\Roaming\Typora\typora-user-images\image-20250922133355180.png)
+<img width="2481" height="1272" alt="image" src="https://github.com/user-attachments/assets/3ff8f02b-1d80-4f14-bcb2-587d7fc0a653" />
 
 Request:
 
@@ -70,3 +70,4 @@ Date: Mon, 22 Sep 2025 05:36:22 GMT
 
 {"tabid":"template-tab","forward":"","message":"模板修改成功","closeCurrent":false,"forwardConfirm":"","statusCode":"200"}
 ```
+<img width="2484" height="1308" alt="image" src="https://github.com/user-attachments/assets/8d565a86-5969-4d21-b2d1-d313f166602c" />
